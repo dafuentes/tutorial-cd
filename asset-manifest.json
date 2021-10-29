@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tutorial-cd/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tutorial-cd/static/js/main.25a91b6f.chunk.js",
+    "main.js.map": "/tutorial-cd/static/js/main.25a91b6f.chunk.js.map",
+    "runtime-main.js": "/tutorial-cd/static/js/runtime-main.8ab64034.js",
+    "runtime-main.js.map": "/tutorial-cd/static/js/runtime-main.8ab64034.js.map",
+    "static/js/2.b8b5a5dc.chunk.js": "/tutorial-cd/static/js/2.b8b5a5dc.chunk.js",
+    "static/js/2.b8b5a5dc.chunk.js.map": "/tutorial-cd/static/js/2.b8b5a5dc.chunk.js.map",
+    "static/js/3.ba218aa8.chunk.js": "/tutorial-cd/static/js/3.ba218aa8.chunk.js",
+    "static/js/3.ba218aa8.chunk.js.map": "/tutorial-cd/static/js/3.ba218aa8.chunk.js.map",
+    "index.html": "/tutorial-cd/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tutorial-cd/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b8b5a5dc.chunk.js.LICENSE.txt": "/tutorial-cd/static/js/2.b8b5a5dc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tutorial-cd/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ab64034.js",
+    "static/js/2.b8b5a5dc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.25a91b6f.chunk.js"
+  ]
+}
